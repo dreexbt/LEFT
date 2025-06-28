@@ -1,0 +1,94 @@
+<!DOCTYPE html><html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>$LEFT — Don’t Get Left Again</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Arial', sans-serif;
+      background: #0f0f0f;
+      color: #fff;
+      text-align: center;
+      padding: 0 1rem;
+    }
+    .hero {
+      padding: 80px 0 40px;
+    }
+    .hero h1 {
+      font-size: 3rem;
+      color: #ff4d4d;
+      margin-bottom: 20px;
+    }
+    .hero p {
+      font-size: 1.2rem;
+      color: #aaa;
+    }
+    .btn {
+      display: inline-block;
+      margin-top: 30px;
+      padding: 15px 30px;
+      background: #ff4d4d;
+      color: #fff;
+      font-size: 1.1rem;
+      border-radius: 8px;
+      text-decoration: none;
+      transition: 0.3s;
+    }
+    .btn:hover {
+      background: #ff0000;
+    }
+    .section {
+      margin-top: 80px;
+      max-width: 700px;
+      margin-left: auto;
+      margin-right: auto;
+    }
+    .quote {
+      margin-top: 60px;
+      font-style: italic;
+      color: #ccc;
+    }
+    .footer {
+      margin-top: 100px;
+      font-size: 0.8rem;
+      color: #666;
+    }
+    a {
+      color: #ff4d4d;
+    }
+  </style>
+</head>
+<body>
+  <div class="hero">
+    <h1>Don’t get $LEFT again.</h1>
+    <p>$LEFT is for everyone who bought the top.<br>Held too long. Missed too much.<br>Now it’s your second chance.</p>
+    <a href="https://believe.app/coin/2kQZczZRWBVAy4jnB5kDgWCk7cTbNGeZidBAjDpBkBLV" class="btn">🔥 Bond Now</a>
+  </div>  <div class="section">
+    <h2>Why $LEFT?</h2>
+    <p>
+      We missed PEPE.<br>
+      We held SHIB into the abyss.<br>
+      DOGE made us laugh, then cry.<br><br>
+      $LEFT isn’t just a coin —<br>
+      It’s a redemption arc for all of us.<br><br>
+      Don’t let your story end with regret again.
+    </p>
+  </div>  <div class="section">
+    <h2>The Chart of Pain 📉</h2>
+    <p>
+      We watched them pump.<br>
+      We held the wrong bags.<br>
+      We got left behind.<br><br>
+      $LEFT is a chance to reverse the timeline.
+    </p>
+  </div>  <div class="quote">
+    “They laughed when I missed PEPE.<br>
+    Now I laugh alone — with $LEFT in my wallet.”
+  </div>  <div class="footer">
+    Contract: 2kQZcz...pBkBLV<br>
+    <a href="https://x.com/yourleftcoin">Follow us on X</a><br><br>
+    $LEFT is a meme coin with no promises. Only trauma and vibes.
+  </div>
+</body>
+</html>
